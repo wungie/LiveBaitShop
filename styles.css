@@ -70,7 +70,6 @@ nav ul li a #fish {
     padding-top: 160px;
 }
 .content div {
-    background-color: none;
     color: white;
     font-style: italic;
     font-size: 25px;
@@ -85,7 +84,6 @@ nav ul li a #fish {
     z-index: -1;
 }
 .contact {
-  background-color: none;
   text-align: center;
 }
 .contact h1 {
